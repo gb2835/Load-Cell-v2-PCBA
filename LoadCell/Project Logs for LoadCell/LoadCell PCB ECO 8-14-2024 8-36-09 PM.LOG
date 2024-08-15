@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetR4_1 New Net Name=ADDR
+Added Member To Class: ClassName=LoadCell Member=Component C1 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=LoadCell Member=Component C2 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=LoadCell Member=Component C3 C1608X5R1H105K080AB
+Added Member To Class: ClassName=LoadCell Member=Component C4 C0603C473K5RACTU
+Added Member To Class: ClassName=LoadCell Member=Component C6 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=LoadCell Member=Component C7 CGA3E2X7R1H104K080AA
